@@ -1,0 +1,122 @@
+.title {
+    margin-top:30px;
+    margin-left:880px;
+}
+
+.steps {
+    text-align:center;
+    
+}
+
+.picture {
+    border-radius: 20px;
+    display:inline-block;
+    height:350px;
+    width:auto;
+    margin-left:170px;
+    margin-top:10px;
+}
+
+.picture { 
+     
+   
+    cursor:pointer; 
+    -webkit-transition-property: all; 
+    -webkit-transition-duration: 0.9s; 
+    -webkit-transition-timing-function:ease; 
+    } 
+    
+  
+    .picture:hover { 
+    transform: scale(1.2); 
+    
+    }
+
+.pasta-one {
+    height:350px;
+    width:auto;
+}
+
+
+.pasta-three {
+    margin-right:100px;
+    
+}
+
+body {
+    background-color:blanchedalmond;
+}
+
+.header {
+    overflow:hidden;
+    background-color: black;
+    padding: 20px 15px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top:0px;
+}
+
+
+
+.header a {
+    float:left;
+    color: white;
+    text-align:center;
+    padding: 10px;
+    text-decoration:none;
+    font-size: 18px; 
+    line-height: 25px;
+    border-radius: 4px;
+}
+
+a.button {
+    float:right;
+}
+
+
+ 
+.header a:hover {
+    background-color: #ddd;
+    color:black;
+}
+
+.header a.active {
+   background-color:dodgerblue;
+}
+
+.texxt {
+    text-align: center;
+    margin-top: 30px;
+}
+
+#ingredients {
+   
+    list-style-position: inside;
+}
+
+#one {
+    margin-left: 320px;
+}
+
+#two {
+    margin-left: 520px;
+}
+
+#three {
+    margin-left:740px;
+}
+
+#four {
+    margin-left:960px;
+}
+#five {
+    margin-left:1180px;
+}
+
+  body {
+    margin:0;
+  }
+
+  .steps {
+    list-style-position: inside;
+  }
