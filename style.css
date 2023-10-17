@@ -19,7 +19,7 @@ body {
     margin: 0px;
 }
 .link {
-    width;
+    
 }
 
 .link a:hover {
@@ -57,10 +57,9 @@ body {
 
 .picture
 {
-    
     cursor:pointer;
     -webkit-transition-property: all;
-    -webkit-transition-duration: 1.2;
+    -webkit-transition-duration: 0.9;
     -webkit-transition-timing-function: ease;
 }
 
